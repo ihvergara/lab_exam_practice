@@ -1,0 +1,9 @@
+
+1. Extract only rows where the ‘Interval’ is 30-0 and save to a new file. (3 points)
+2. Extract only rows where Genus starts with “St” (case insensitive) and save to a new file. (3 points)
+3. Get all unique scientific names and save them to a new file. (4 points)
+4. Get all unique scientific names and corresponding average estimated size (cm) and save to a new file. (3 points)
+5. Display the average count for Pomacentrus adelus. (5 points)
+6. Create a new file that has the same contents but with a new column called “HRID” where the value is the concatenation of location, site, and replicate (separated by a dash; replace any occurrence of a comma with a dash).  For example, the value of HRID for the first row is: Calatagan-Batangas-BuntongGasang-2.    (5 points)
+7. Transpose the contents such that the column headers become row headers. (5 points)
+
